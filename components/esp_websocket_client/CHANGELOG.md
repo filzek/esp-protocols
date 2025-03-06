@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.1](https://github.com/espressif/esp-protocols/commits/websocket-v1.4.1)
+
+### Features
+
+- Support new Websocket event WEBSOCKET_EVENT_RECONNECTING
+
+
 ## [1.4.0](https://github.com/espressif/esp-protocols/commits/websocket-v1.4.0)
 
 ### Features
